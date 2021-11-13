@@ -1,0 +1,1 @@
+var zoteroMeta = {"version": "0.3.6", "project_name": "zensols.zotsite"};
