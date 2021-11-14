@@ -434,7 +434,7 @@ function ZoteroManager(levels, meta) {
 			var options = {
 				ignoreCase: true,
 				exactMatch: false,
-				revealResults: false
+				revealResults: true
 			}
 			var nodes = tree.getExpanded();
 			var nlen = nodes.length;
