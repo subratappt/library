@@ -516,9 +516,9 @@ function ZoteroManager(levels, meta) {
 		btn.setAttribute('link-data-toggle', 'tooltip');
 		btn.setAttribute('link-data-placement', 'right');
 		btn.setAttribute('link-data-html', 'true');
-// 		$(function () {
-// 			$('[link-data-toggle="tooltip"]').tooltip()
-// 		});
+		$(function () {
+			$('[link-data-toggle="tooltip"]').tooltip()
+		});
 
 		insertVersion();
 
