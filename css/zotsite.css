@@ -1,5 +1,5 @@
 .bg-z, .meta-thead {
-    background-color: #384f52;
+    background-color: #436e69;
 }
 
 .scrollbar-primary::-webkit-scrollbar-thumb {
@@ -30,7 +30,7 @@
 }
 
 .list-group-item {
-    padding: 10px 10px
+    padding: 15px;
 }
 
 .treelist li {
@@ -38,6 +38,8 @@
     white-space: wrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    background-color: #cccecf;
+   
 }
 
 .table-z tr {
@@ -65,7 +67,7 @@
 }
 
 .treelist, .left-nav-col {
-    width: 500px;
+    width: 700px;
 }
 
 .center-cell {
@@ -75,11 +77,11 @@
 }
 
 .max-cell {
-    padding: 8px;
+    padding: 10px;
 }
 
 .max-table, .center-cell, .max-cell {
-    width: 100%;
+    width: 95%;
     height: 100%;
 }
 
