@@ -1,5 +1,5 @@
 .bg-z, .meta-thead {
-    background-color: #436e69;
+    background-color: #174c4e;
 }
 
 .scrollbar-primary::-webkit-scrollbar-thumb {
@@ -31,6 +31,7 @@
 
 .list-group-item {
     padding: 15px;
+    font-weight: 600;
 }
 
 .treelist li {
@@ -165,4 +166,9 @@
 
 .pubVol{
     font-weight: 800;
+}
+
+.headColor{
+    font-weight: 600;
+    color: #bfcac8;
 }
